@@ -18,7 +18,7 @@ git clone https://github.com/X1Ro1/LLM.git
 ```
 2. Далее открываете командную строку, в моем случае cmd:
 ```bash
-cd zad2
+cd LLM
 npm install
 ```
 
