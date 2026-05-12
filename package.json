@@ -1,7 +1,7 @@
 {
   "name": "llm-review-classifier",
   "version": "1.0.0",
-  "description": "API pipeline for review classification using LLM",
+  "description": "Работа с LLM через API",
   "type": "module",
   "scripts": {
     "start": "node index.js",
